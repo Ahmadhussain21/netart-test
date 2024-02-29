@@ -1,4 +1,3 @@
-import './App.css';
 import LOGO from './assets/logo.png'
 import PRIZE from './assets/1.png'
 import PHOTO from './assets/2.png'
